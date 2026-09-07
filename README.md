@@ -50,6 +50,7 @@ A skill is a folder containing a `SKILL.md` file — instructions, plus optional
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Official Obsidian skills: teach your agent the Obsidian CLI and open formats like Markdown, Bases, and JSON Canvas.
 - [obra/superpowers](https://github.com/obra/superpowers) - The best-known skills framework: a full software-development methodology (planning, TDD, debugging, code review) expressed as composable skills.
 - [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - The curated plugin marketplace companion to Superpowers.
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first video-production skills for Claude Code and Codex, backed by a CLI/MCP toolkit and editable plan.json timelines.
 - [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of `/mnt/skills` from Claude's code-interpreter environment, extracted and tracked — see how Anthropic writes its own production skills.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official skills, including a react-best-practices skill distilled from their internal engineering guidance.
 
