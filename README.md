@@ -89,6 +89,7 @@ A skill is a folder containing a `SKILL.md` file — instructions, plus optional
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Local control plane for skill discovery, selection, and stack validation over a 2,000+ skill catalog, with CLI and MCP interfaces.
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Anthropic's own meta-skill for authoring skills: interviews you, scaffolds the folder, and evaluates the result.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - `npx skills` — the open cross-agent installer: add, list, and update skills across Claude Code, Codex, Cursor, and dozens of other agents.
+- [yylo-dev/yylo](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed Kanban tasks, isolated worktrees, a risk-gated merge queue, and installable agent skills.
 
 ## Patterns & guides
 
