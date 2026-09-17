@@ -51,6 +51,7 @@ A skill is a folder containing a `SKILL.md` file — instructions, plus optional
 - [obra/superpowers](https://github.com/obra/superpowers) - The best-known skills framework: a full software-development methodology (planning, TDD, debugging, code review) expressed as composable skills.
 - [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - The curated plugin marketplace companion to Superpowers.
 - [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of `/mnt/skills` from Claude's code-interpreter environment, extracted and tracked — see how Anthropic writes its own production skills.
+- [ulises-jeremias/agent-toolkit](https://github.com/ulises-jeremias/agent-toolkit) - Portable skill catalog with personas, MCP templates, and multi-agent loops deployable across coding assistants.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official skills, including a react-best-practices skill distilled from their internal engineering guidance.
 
 ## Individual skills worth stealing
