@@ -86,6 +86,7 @@ A skill is a folder containing a `SKILL.md` file — instructions, plus optional
 - [dylanpulver/keypop](https://github.com/dylanpulver/keypop) - Native dialog for handing secrets to a skill or agent without the value ever entering model context. 60 lines of shell.
 - [dylanpulver/session-deck](https://github.com/dylanpulver/session-deck) - Zero-dependency live dashboard for parallel Claude Code sessions.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - Plugin HUD showing context usage, active tools, running agents, and todo progress in real time.
+- [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) - Meta-skill that watches work sessions, logs where skills fail, and turns the corrections into proposed skill edits; ships a weekly review workflow and a per-observation log.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Local control plane for skill discovery, selection, and stack validation over a 2,000+ skill catalog, with CLI and MCP interfaces.
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Anthropic's own meta-skill for authoring skills: interviews you, scaffolds the folder, and evaluates the result.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - `npx skills` — the open cross-agent installer: add, list, and update skills across Claude Code, Codex, Cursor, and dozens of other agents.
