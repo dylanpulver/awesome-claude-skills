@@ -64,6 +64,7 @@ A skill is a folder containing a `SKILL.md` file — instructions, plus optional
 
 ### Research
 
+- [aihot](https://github.com/KKKKhazix/khazix-skills/tree/main/aihot) - Searches Chinese-language AI news and retrieves daily briefs through a public API.
 - [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - Runs a decision through five AI advisors with peer review before you commit.
 - [dylanpulver/prior-art](https://github.com/dylanpulver/prior-art) - Scans the open-source and research landscape for projects doing what your repo does — novelty verdict, steal list, watch list.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turns a codebase — docs, SQL schemas, configs, PDFs — into a queryable knowledge graph via a `/graphify` skill, with deterministic AST parsing and no vector store.
